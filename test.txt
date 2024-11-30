@@ -5,4 +5,6 @@ menghapus editan, dan menambah angka 1
 Jadwal minggu ini
 - kuliah
 - belajar 
+ * belajar coding
+ * belajar kalkulus
 - bekerja
