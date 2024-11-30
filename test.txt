@@ -1,3 +1,4 @@
 test the github
  hellow :)
-baru saja mengedit di file
+
+menghapus editan, dan menambah angka 1
